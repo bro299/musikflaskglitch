@@ -1,0 +1,85 @@
+body.light-theme {
+    background-color: #f0f0f0;
+    color: #333333;
+}
+
+body.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.navbar.light-theme {
+    background-color: #ffffff;
+}
+
+.navbar.dark-theme {
+    background-color: #1f1f1f;
+}
+
+.form-control.light-theme {
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #cccccc;
+}
+
+.form-control.dark-theme {
+    background-color: #333333;
+    color: #ffffff;
+    border: 1px solid #555555;
+}
+
+.form-control::placeholder {
+    color: #bbbbbb;
+}
+
+.btn-secondary .fas {
+    font-size: 18px; 
+    color: #ffffff;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: 1px solid #007bff;
+    color: #ffffff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.card.bg-dark .card-title, 
+.card.bg-dark .card-body {
+    color: #ffffff;
+}
+
+.card.bg-dark .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #ffffff;
+}
+
+.card.bg-dark .btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.video-info img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ffffff;
+}
+
+.video-info p {
+    color: #bbbbbb;
+}
+
+#result a {
+    color: #007bff;
+}
+
+.card .btn {
+    color: #ffffff;
+}
+
+.card-title {
+    color: inherit;
+}

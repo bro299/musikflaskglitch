@@ -1,0 +1,14 @@
+{
+    "name": "musikflask",
+    "version": "1.0.0",
+    "main": "app.py",
+    "scripts": {
+      "start": "python3 app.py"
+    },
+    "dependencies": {
+      "flask": "^2.0.0",
+      "flask-cors": "^3.0.10",
+      "yt-dlp": "^2021.12.1"
+    }
+  }
+  
